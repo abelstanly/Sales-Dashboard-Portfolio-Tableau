@@ -54,7 +54,7 @@ The dashboard analyses sales and profit trends, regional sales performance, and 
 
 ## 📸 Dashboard Preview
 
-![Business Performance Dashboard](./02-Business-Performance-Dashboard/Business-Performance-Dashboard.png)
+![Business Performance Dashboard](./02-Business-Performance-Dashboard/Business-Performance-Dashboard.jpg)
 
 ## 🔗 Interactive Dashboard
 
