@@ -22,7 +22,7 @@ The visualization uses a line chart to compare regional sales performance over t
 
 ## 🔗 Interactive Dashboard
 
-👉 **[View Sales Trend by Region on Vizz](YOUR_VIZZ_LINK_HERE)**
+👉 **[View Sales Trend by Region on Vizz](https://public.tableau.com/views/SalesTrendbyRegion_17779841537110/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## 📊 Analysis
 
@@ -58,7 +58,7 @@ The dashboard analyses sales and profit trends, regional sales performance, and 
 
 ## 🔗 Interactive Dashboard
 
-👉 **[View Business Performance Dashboard on Vizz](YOUR_VIZZ_LINK_HERE)**
+👉 **[View Business Performance Dashboard on Vizz](https://public.tableau.com/views/BusinessPerformanceDashboard_17779846776900/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ## 📊 Dashboard Components
 
